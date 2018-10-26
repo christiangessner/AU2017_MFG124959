@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Standard">
+  <ClassId>{b00d2a02-2c9d-44b6-975f-bc53fae66021}</ClassId>
+  <ClientId>{b00d2a02-2c9d-44b6-975f-bc53fae66021}</ClientId>
+  <DisplayName>MFG124959.Classes.InventorAddIn</DisplayName>
+  <Description>MFG124959.Classes.InventorAddIn</Description>
+  <Assembly>.\MFG124959.Classes.InventorAddIn\MFG124959.Classes.InventorAddIn.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>15..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
