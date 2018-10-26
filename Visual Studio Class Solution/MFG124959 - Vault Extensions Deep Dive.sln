@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFG124959.Classes.InventorAddIn", "MFG124959.Classes.InventorAddIn\MFG124959.Classes.InventorAddIn.csproj", "{4A4D1BB5-F799-4009-B793-4381DC77BB3C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFG124959.Classes.Vault2018", "MFG124959.Classes.Vault2018\MFG124959.Classes.Vault2018.csproj", "{37CC4D5D-F647-45D4-A8A0-FCA94CEF87DE}"
 EndProject
